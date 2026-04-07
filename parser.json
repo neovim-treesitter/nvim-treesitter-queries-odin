@@ -1,8 +1,7 @@
 {
+  "lang": "odin",
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-odin",
   "semver": false,
-  "min_version": null,
-  "max_version": null,
-  "location": null,
-  "lang": "odin"
+  "parser_version": "d2ca8efb4487e156a60d5bd6db2598b872629403",
+  "location": null
 }
