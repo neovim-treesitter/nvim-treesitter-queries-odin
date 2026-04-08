@@ -1,6 +1,6 @@
 {
   "semver": false,
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-odin",
+  "parser_version": "d2ca8efb4487e156a60d5bd6db2598b872629403",
   "lang": "odin",
-  "parser_version": "d2ca8efb4487e156a60d5bd6db2598b872629403"
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-odin"
 }
